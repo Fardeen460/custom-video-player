@@ -1,0 +1,26 @@
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.pauseButton {
+  margin: 0 10px; 
+}
+
+.rewindButton {
+  margin-right: auto;
+}
+
+.fastForwardButton {
+  margin-left: auto;
+}
+
+.MuiSvgIcon-root {
+  color: white;
+}
+
+.MuiSvgIcon-root:hover {
+  color: lightgray;
+}
